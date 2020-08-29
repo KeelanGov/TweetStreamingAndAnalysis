@@ -7,6 +7,7 @@ The tweets are then analysed:
  - Visualizing the most used hashtags (surrounding the topic) in order to gather what areas of covid are being talked about or mentioned. 
  - The number of tweets over time.
  - The types of sources used to access Twitter.
+ 
 The actual content of the tweets are then investigated (after cleaning) to gather:
  - Average word count
  - Misspelled words
